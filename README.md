@@ -1,5 +1,5 @@
 # 05_azure_highlight_processor
-**Week 2 - Day 1:** Building a containerized API to fetch and store NCAA game highlights.
+**Week 2 - Day 2:** Building a containerized API to fetch and store NCAA game highlights.
 
 ![Project Structure](05_azure_highlight_processor.drawio.png)
 
